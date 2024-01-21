@@ -12,3 +12,5 @@ RoxygenNote: 7.3.0
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+URL: https://github.com/steenharsted/jumpr
+BugReports: https://github.com/steenharsted/jumpr/issues
